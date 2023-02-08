@@ -85,7 +85,7 @@ dependencies {
     implementation  'com.scwang.smart:refresh-header-two-level:2.0.3'   //二级刷新头
     implementation  'com.scwang.smart:refresh-footer-ball:2.0.3'        //球脉冲加载
     implementation  'com.scwang.smart:refresh-footer-classics:2.0.3'    //经典加载
-    implementation 'com.github.Zhao-Yan-Yan:MultiStatePage:2.0.3'       //加载动画
+    implementation 'com.github.Zhao-Yan-Yan:MultiStatePage:2.0.5'       //加载动画
     implementation "com.paulrybitskyi.persistentsearchview:persistentsearchview:1.1.4"//搜索组件
     implementation 'co.ankurg.expressview:expressview:0.0.3'            //关注按钮
     implementation 'com.github.razir.progressbutton:progressbutton:2.1.0' //加载按钮
