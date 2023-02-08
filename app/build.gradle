@@ -77,15 +77,15 @@ dependencies {
     implementation 'com.github.angcyo.DslTablayout:ViewPager2Delegate:1.4.2'    //tabLayout绑定viewPage
     implementation 'com.github.limuyang2.LDialog:ldialog:1.0.2_androidx'    //分区dialog
     implementation 'com.github.limuyang2.LDialog:custom_ldialog:1.0.2_androidx' //分区dialog
-    implementation  'com.scwang.smart:refresh-layout-kernel:2.0.4'      //核心必须依赖
-    implementation  'com.scwang.smart:refresh-header-classics:2.0.4'    //经典刷新头
-    implementation  'com.scwang.smart:refresh-header-radar:2.0.4'       //雷达刷新头
-    implementation  'com.scwang.smart:refresh-header-falsify:2.0.4'     //虚拟刷新头
-    implementation  'com.scwang.smart:refresh-header-material:2.0.4'    //谷歌刷新头
-    implementation  'com.scwang.smart:refresh-header-two-level:2.0.4'   //二级刷新头
-    implementation  'com.scwang.smart:refresh-footer-ball:2.0.4'        //球脉冲加载
-    implementation  'com.scwang.smart:refresh-footer-classics:2.0.4'    //经典加载
-    implementation 'com.github.Zhao-Yan-Yan:MultiStatePage:2.0.2'       //加载动画
+    implementation  'com.scwang.smart:refresh-layout-kernel:2.0.3'      //核心必须依赖
+    implementation  'com.scwang.smart:refresh-header-classics:2.0.3'    //经典刷新头
+    implementation  'com.scwang.smart:refresh-header-radar:2.0.3'       //雷达刷新头
+    implementation  'com.scwang.smart:refresh-header-falsify:2.0.3'     //虚拟刷新头
+    implementation  'com.scwang.smart:refresh-header-material:2.0.3'    //谷歌刷新头
+    implementation  'com.scwang.smart:refresh-header-two-level:2.0.3'   //二级刷新头
+    implementation  'com.scwang.smart:refresh-footer-ball:2.0.3'        //球脉冲加载
+    implementation  'com.scwang.smart:refresh-footer-classics:2.0.3'    //经典加载
+    implementation 'com.github.Zhao-Yan-Yan:MultiStatePage:2.0.3'       //加载动画
     implementation "com.paulrybitskyi.persistentsearchview:persistentsearchview:1.1.4"//搜索组件
     implementation 'co.ankurg.expressview:expressview:0.0.3'            //关注按钮
     implementation 'com.github.razir.progressbutton:progressbutton:2.1.0' //加载按钮
