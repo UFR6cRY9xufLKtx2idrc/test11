@@ -109,7 +109,7 @@ dependencies {
     implementation "com.mikepenz:materialdrawer:9.0.1" // material drawer
     implementation "com.mikepenz:materialdrawer-iconics:9.0.1" // material drawer 图标
     implementation 'com.mikepenz:google-material-typeface:4.0.0.2-kotlin@aar' //Google Material Icons
-    implementation 'com.github.li-xiaojun:XPopup:2.7.5' //弹出框
+    implementation 'com.github.li-xiaojun:XPopup:2.9.19' //弹出框
     implementation 'com.contrarywind:wheelview:4.1.0' //滚动选择
     api 'com.github.devin1014.DLNA-Cast:dlna-dmc:V1.0.0' //Dlna
     implementation 'com.github.liangjingkanji:Net:3.2.2'  //刘强东NET
