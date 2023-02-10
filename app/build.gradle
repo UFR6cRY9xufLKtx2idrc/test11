@@ -7,13 +7,13 @@ apply plugin: "kotlin-kapt"
 apply plugin: 'kotlin-android'
 
 android {
-    compileSdk 31
+    compileSdk 33
     buildFeatures.dataBinding = true
 
     defaultConfig {
         applicationId "com.yj1211.justlive"
-        minSdk 21
-        targetSdk 30
+        minSdkVersion 21
+        targetSdkVersion 33
         versionCode 19
         versionName "0.2.8"
 
@@ -44,8 +44,8 @@ android {
     packagingOptions {
         exclude 'META-INF/beans.xml'
     }
-    compileSdkVersion 31
-    buildToolsVersion '31.0.0'
+    compileSdkVersion 33
+    buildToolsVersion '33.0.1'
 }
 
 dependencies {
